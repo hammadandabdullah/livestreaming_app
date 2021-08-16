@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "363528963339",
+    "project_id": "flashchat-e9184",
+    "storage_bucket": "flashchat-e9184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363528963339:android:8d72779ce5ec89ce874e0e",
+        "android_client_info": {
+          "package_name": "com.example.live_streaming_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363528963339-8fu0fpvv8gj14371i7uv581f11ankabp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxPetp0VY_im8Wks9zuBytoHH90Iqbi64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363528963339-8fu0fpvv8gj14371i7uv581f11ankabp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "363528963339-7e1d3smspfeikkrhtecj95naetahquln.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.muhammadali.buddiesgram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
